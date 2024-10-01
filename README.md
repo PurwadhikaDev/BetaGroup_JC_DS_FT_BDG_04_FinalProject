@@ -5,6 +5,7 @@
   "TIM mind<strong>fuel</strong>"<br><strong>F</strong>A<strong>U</strong>ZIAH AROFAH DAN <strong>EL</strong>ISA HARIYANTI<br><br>
   <strong>DIBIMBING OLEH:</strong><br>M. ZULFIKAR MUSLIM<br><br><strong>JCDS 0408 - BANDUNG, 2024<strong>
 </p>
+
 -------------------------------------------------------------------------------------------------------------------------------------
 	  
 📖 Pendahuluan
@@ -36,7 +37,9 @@ Proyek ini berfokus pada analisis churn konsumen menggunakan teknik machine lear
 1.	Identifikasi konsumen berisiko churn:m data untuk mengetahui faktor-faktor yang mempengaruhi konsumen yang memiliki risiko tinggi untuk berhenti menggunakan layanan.
 
 2.	Optimalkan strategi retensi: merancang model machine learning yang efektif untuk mempertahankan konsumen.
-   
+
+-------------------------------------------------------------------------------------------------------------------------------------
+
 🛠️ Pendekatan Analisis
 
 1.	Pengumpulan data: mengumpulkan data relevan, termasuk demografi, preferensi, dan aktivitas transaksi konsumen.
@@ -53,11 +56,13 @@ Proyek ini berfokus pada analisis churn konsumen menggunakan teknik machine lear
 
 📈 Metrik Evaluasi
 
+
 1.	Biaya churn:
 
 	Cost of Acquisition (CAC): biaya untuk mendapatkan konsumen baru.
 	
 	Cost of Retention (CRC): biaya untuk mempertahankan konsumen yang ada. Penelitian menunjukkan bahwa mempertahankan konsumen lebih efisien dibandingkan akuisisi.
+
 
 2.	Jenis kesalahan dalam analisis:
 
@@ -80,6 +85,7 @@ Kami mengumpulkan dan menganalisis data, termasuk demografi konsumen, riwayat tr
 -------------------------------------------------------------------------------------------------------------------------------------
 📝 Kesimpulan dan Rekomendasi
 
+
 Kesimpulan definisi churn:
 
 Analisis menunjukkan bahwa churn tidak hanya dipengaruhi oleh demografi, preferensi, atau keterlibatan, tetapi dapat dilacak melalui indikator perilaku tertentu seperti:
@@ -91,6 +97,7 @@ Analisis menunjukkan bahwa churn tidak hanya dipengaruhi oleh demografi, prefere
 •	Uninstall aplikasi
 
 •	Berhenti dari keanggotaan
+
 
 Rekomendasi untuk bisnis:
 
@@ -107,11 +114,13 @@ Untuk menangani faktor-faktor churn yang teridentifikasi dan meningkatkan retens
 -------------------------------------------------------------------------------------------------------------------------------------
 🛠️ Performa Model
 
+
 Langkah-langkah yang diambil:
 
 •	Fitur engineering: mengatasi missing value, menggunakan OneHotEncoder untuk fitur kategorikal, dan menerapkan Random Over Sampling (ROS) untuk imbalanced data.
 
 •	Evaluasi model: melakukan tuning hyperparameter, memastikan kinerja yang kuat melalui teknik cross-validation.
+
 
 Model terbaik:
 
@@ -119,6 +128,7 @@ Model LightGBM menunjukkan kemampuan prediksi yang sangat baik, dengan F2 Score 
 
 -------------------------------------------------------------------------------------------------------------------------------------
 🔮 Rekomendasi Modeling Selanjutnya
+
 
 Beberapa langkah yang dapat dilakukan untuk pengembangan lebih lanjut meliputi:
 
@@ -134,14 +144,17 @@ Beberapa langkah yang dapat dilakukan untuk pengembangan lebih lanjut meliputi:
 Streamlit:
 
 Dalam konteks e-commerce, memahami perilaku konsumen dan memprediksi kemungkinan churn merupakan langkah penting untuk meningkatkan retensi. Dengan menggunakan Streamlit, penyusun membuat aplikasi sederhana namun cukup efektif, yang memungkinkan user untuk melakukan prediksi churn untuk satu konsumen dengan memasukkan data secara manual. Selain itu, aplikasi ini juga mendukung pengunggahan file CSV, sehingga user dapat menganalisis data churn dari banyak konsumen sekaligus. Dengan demikian, streamlit ini dapat menjadi alat yang berguna untuk membantu perusahaan dalam merumuskan strategi pencegahan churn dengan lebih baik. Streamlit dapat diakses pada file "streamlit_finpro" pada GitHub.
+
 -------------------------------------------------------------------------------------------------------------------------------------
 Visualisasi Interaktif:
 
 Visualisasi menggunakan Tableau dapat diakses melalui tautan berikut: [Lihat visualisasi di Tableau](https://public.tableau.com/app/profile/elisa.hariyanti/viz/E-CommerceCustomerChurn-BetaGroup/Home?publish=yes). 
+
 -------------------------------------------------------------------------------------------------------------------------------------
 About Us:
 
 Notebook ini disusun oleh tim mindfuel: [**F**a**U**ziah](www.linkedin.com/in/fauziah-arofah) dan [**EL**isa](https://www.linkedin.com/in/elisahrynt/), sebagai proyek akhir dari program Job Connector Data Science Purwahika Bandung. Nama 'mind' kami pilih untuk merepresentasikan kreativitas dan inovasi yang kami miliki, sementara 'fuel' (yang juga merupakan singkatan nama kami) diharapkan dapat mencerminkan energi dan semangat yang diperlukan untuk mewujudkan ide-ide tersebut. Dengan nama ini kami ingin menunjukkan bahwa setiap gagasan yang muncul dari pikiran kami dapat menjadi bahan bakar untuk menciptakan perubahan kearah yang lebih positif.
+
 -------------------------------------------------------------------------------------------------------------------------------------
 
 Terimakasih :)
