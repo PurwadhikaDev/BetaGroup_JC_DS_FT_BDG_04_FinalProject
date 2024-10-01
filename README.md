@@ -1,7 +1,12 @@
 # BetaGroup_JC_DS_FT_BDG_04_FinalProject
 
-README: Analisis Churn dalam E-commerce
-
+<p style="text-align: center;">
+  <strong>DISUSUN OLEH:</strong> <br>
+  "TIM mind<strong>fuel</strong>"<br><strong>F</strong>A<strong>U</strong>ZIAH AROFAH DAN <strong>EL</strong>ISA HARIYANTI<br><br>
+  <strong>DIBIMBING OLEH:</strong><br>M. ZULFIKAR MUSLIM<br><br><strong>JCDS 0408 - BANDUNG, 2024<strong>
+</p>
+-------------------------------------------------------------------------------------------------------------------
+	  
 📖 Pendahuluan
 
 Di era digital yang terus berkembang, e-commerce telah menjadi bagian integral dari cara bisnis beroperasi. Namun, dengan pertumbuhan pesat ini, tantangan dalam memahami dan mempertahankan konsumen semakin kompleks. Churn, atau kehilangan konsumen, menjadi isu krusial yang harus diatasi oleh setiap perusahaan e-commerce. Dokumentasi ini bertujuan untuk menjelaskan tujuan, pendekatan, dan metrik yang digunakan dalam analisis churn konsumen.
