@@ -75,6 +75,7 @@ Model terbaik:
 Model LightGBM menunjukkan kemampuan prediksi yang sangat baik, dengan F2 Score meningkat dari 0.93 menjadi 0.94 setelah proses tuning. Biaya kesalahan klasifikasi model adalah yang terendah di antara model lainnya, menunjukkan efisiensi tinggi dalam mendeteksi konsumen yang berisiko churn.
 
 🔮 Rekomendasi Modeling Selanjutnya
+
 Beberapa langkah yang dapat dilakukan untuk pengembangan lebih lanjut meliputi:
 •	Eksplorasi hyperparameter: menggunakan teknik seperti Bayesian Optimization untuk menemukan parameter terbaik.
 •	Cross validation yang kompleks: menerapkan stratified k-fold untuk mengurangi kemungkinan overfitting.
@@ -82,12 +83,15 @@ Beberapa langkah yang dapat dilakukan untuk pengembangan lebih lanjut meliputi:
 •	Pemantauan kinerja model: mengimplementasikan sistem untuk memantau kinerja model secara berkala dan mendeteksi penurunan kinerja dengan cepat.
 
 Streamlit:
+
 Dalam konteks e-commerce, memahami perilaku konsumen dan memprediksi kemungkinan churn merupakan langkah penting untuk meningkatkan retensi. Dengan menggunakan Streamlit, penyusun membuat aplikasi sederhana namun cukup efektif, yang memungkinkan user untuk melakukan prediksi churn untuk satu konsumen dengan memasukkan data secara manual. Selain itu, aplikasi ini juga mendukung pengunggahan file CSV, sehingga user dapat menganalisis data churn dari banyak konsumen sekaligus. Dengan demikian, streamlit ini dapat menjadi alat yang berguna untuk membantu perusahaan dalam merumuskan strategi pencegahan churn dengan lebih baik. Streamlit dapat diakses pada file "streamlit_finpro" pada GitHub.
 
 Visualisasi Interaktif:
+
 Visualisasi menggunakan Tableau dapat diakses melalui tautan berikut: [Lihat visualisasi di Tableau](https://public.tableau.com/app/profile/elisa.hariyanti/viz/E-CommerceCustomerChurn-BetaGroup/Home?publish=yes). 
 
 About Us:
+
 Notebook ini disusun oleh tim mindfuel: [**F**a**U**ziah](www.linkedin.com/in/fauziah-arofah) dan [**EL**isa](https://www.linkedin.com/in/elisahrynt/), sebagai proyek akhir dari program Job Connector Data Science Purwahika Bandung. Nama 'mind' kami pilih untuk merepresentasikan kreativitas dan inovasi yang kami miliki, sementara 'fuel' (yang juga merupakan singkatan nama kami) diharapkan dapat mencerminkan energi dan semangat yang diperlukan untuk mewujudkan ide-ide tersebut. Dengan nama ini kami ingin menunjukkan bahwa setiap gagasan yang muncul dari pikiran kami dapat menjadi bahan bakar untuk menciptakan perubahan kearah yang lebih positif.
 
 
